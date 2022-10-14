@@ -94,7 +94,7 @@
   
     @endif 
     <div>
-        Showing
+        Showing 
         {{ $posts->firstItem() }}
         to
         {{ $posts->lastItem() }}
